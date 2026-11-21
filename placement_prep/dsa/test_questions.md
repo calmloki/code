@@ -75,3 +75,10 @@ Given an array, find the smallest k such that all windows of size k has bitwise 
 
 3. Shortest Path to K points
 There is a M * N grid with entries being 0 and 1. 1 means wall and 0 means path. There are also K points whose (x,y) coordinates are given. Find the shortest distance of all the k points from (0,0).
+
+
+# Media.Net Test
+https://claude.ai/share/a2a4287c-e4e6-4a55-b8ca-991cd0c39b4b
+
+# Juspay Test
+https://claude.ai/share/fe937e0e-ca3e-43a0-8732-720fee742708 
