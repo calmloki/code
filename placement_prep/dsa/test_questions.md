@@ -80,5 +80,14 @@ There is a M * N grid with entries being 0 and 1. 1 means wall and 0 means path.
 # Media.Net Test
 https://claude.ai/share/a2a4287c-e4e6-4a55-b8ca-991cd0c39b4b
 
+
 # Juspay Test
 https://claude.ai/share/fe937e0e-ca3e-43a0-8732-720fee742708 
+
+
+# Quantitative Brokers
+https://claude.ai/share/a5ec2e9c-2633-4aa5-96fe-ebd3bc5c3cd5
+
+
+# Goldman Sache
+https://claude.ai/share/a5ec2e9c-2633-4aa5-96fe-ebd3bc5c3cd5
